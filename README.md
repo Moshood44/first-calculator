@@ -1,16 +1,38 @@
-# learningdart
+# Neo Calculator
 
-A new Flutter project.
+A modern, sleek calculator application built with Flutter. This app features a clean design with a splash screen animation and basic calculator functionality.
+
+## Features
+
+- Animated splash screen with fade-in effect
+- Basic arithmetic operations
+- Modern, minimalist UI design
+- Responsive layout
+
+## Screenshots
+
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run this app locally:
 
-A few resources to get you started if this is your first Flutter project:
+1. Ensure you have Flutter installed on your machine
+2. Clone this repository
+3. Run `flutter pub get` to install dependencies
+4. Run `flutter run` to start the app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter
+- Dart
+- Animation Controller for splash screen
+- Material Design
+
+## Contributing
+
+Feel free to submit issues and enhancement requests.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details
