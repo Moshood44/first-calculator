@@ -13,31 +13,19 @@ dependencies:
   math_expressions: ^2.4.0
   google_fonts: ^6.1.0
   shared_preferences: ^2.2.2  # For saving calculator history
-  flutter_launcher_icons: ^0.13.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_lints: ^3.0.1
+  flutter_launcher_icons: ^0.13.1
 
 flutter:
   uses-material-design: true
   
-  assets:
-    - assets/neocalc_icon.png
-
+  
 flutter_launcher_icons:
   android: "launcher_icon"
   ios: true
-  image_path: "assets/neocalc_icon.png"
+  image_path: "assets/neo_calc.jpeg"
   min_sdk_android: 21
-  web:
-    generate: true
-    image_path: "assets/neocalc_icon.png"
-  windows:
-    generate: true
-    image_path: "assets/neocalc_icon.png"
-    icon_size: 48
-  macos:
-    generate: true
-    image_path: "assets/neocalc_icon.png"
